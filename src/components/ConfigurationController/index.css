@@ -1,0 +1,20 @@
+.configuration-controller-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: flex-start;
+  background-color: rgb(53, 53, 109);
+  background-size: cover;
+  padding-left: 35px;
+  color: whitesmoke;
+  height: 25vh;
+}
+.checkbox-container {
+  display: flex;
+  /* flex-direction: column; */
+  align-items: center;
+  justify-content: flex-start;
+  margin: 2px;
+  font-family: 'Roboto';
+  font-size: 15px;
+}
